@@ -341,7 +341,7 @@
                         </div>
                         <div class="about-slides owl-carousel owl-theme">
                             <!-- slide 1 -->
-                            <!-- <div class="col-lg-12">
+                            <div class="col-lg-12">
                                 <div class="row">
                                     <div class="about-img col-lg-6">
                                         <img src="./assets/img/m-dev.svg">
@@ -366,7 +366,7 @@
                                             provide a seamless user experience.</p>
                                     </div>
                                 </div>
-                            </div> -->
+                            </div>
                             <!-- slide 2 -->
                             <div class="col-lg-12">
                                 <div class="row">
