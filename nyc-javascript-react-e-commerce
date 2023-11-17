@@ -821,8 +821,9 @@
                             <i class="icofont-google-map"></i>
                         </div>
                         <h4>Address</h4>
-                        <p><a href="#">Bulevardul Eroilor 42, Cluj-Napoca, Romania</a></p>
-                        <p><a href="#">Lange Winkelhaakstraat 26, 2060 Antwerpen, Belgium</a></p>
+<p><a href="https://www.google.com/maps/place/Bulevardul+Eroilor+42,+Cluj-Napoca,+Romania" target="_blank">Bulevardul Eroilor 42, Cluj-Napoca, Romania</a></p>
+<p><a href="https://www.google.com/maps/place/Lange+Winkelhaakstraat+26,+2060+Antwerpen,+Belgium" target="_blank">Lange Winkelhaakstraat 26, 2060 Antwerpen, Belgium</a></p>
+
                     </div>
                 </div>
 
@@ -832,8 +833,9 @@
                             <i class="icofont-envelope"></i>
                         </div>
                         <h4>Email</h4>
-                        <p><a href="#">sales@Millennials.agency</a></p>
-                        <p><a href="#">support@Millennials.agency</a></p>
+<p><a href="mailto:sales@Millennials.agency">sales@Millennials.agency</a></p>
+<p><a href="mailto:support@Millennials.agency">support@Millennials.agency</a></p>
+
                     </div>
                 </div>
 
